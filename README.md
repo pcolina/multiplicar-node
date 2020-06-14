@@ -4,15 +4,15 @@ Esta es una aplicación para generar y listar tablas de multiplicar desde consol
 
 ## Instalacion
 
-´´´
+```
 npm install
-´´´
+```
 
 ---
 
 Para ver las opciones de la aplicacion ejecutar la ayuda
 
-´´´
+```
 node app --help
-´´´
+```
 
